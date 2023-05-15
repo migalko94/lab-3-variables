@@ -98,3 +98,5 @@ Por la consola de _Google Chrome_ de la _Sandbox_ de _TypeScript_ vemos lo sigui
 ![feedback consola sandbox](/content/console-sandboxts-feedback.png)
 
 > Fin del laboratorio
+
+**Resubo con sandbox TS y main cambiado a la implementación del ejercicio.**
